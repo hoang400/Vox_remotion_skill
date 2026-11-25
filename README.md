@@ -1,1 +1,1 @@
-# B-S_remotion_skill
+# Cách dùng Vox_remotion_skill
